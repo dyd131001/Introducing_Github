@@ -1,2 +1,3 @@
 # Introducing_Github
-코세라 강의 실습
+
+I am editing the README file. Adding some more details about the project description.
